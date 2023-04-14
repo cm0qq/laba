@@ -1,0 +1,14 @@
+D:\c#\tl1z3\tl1z3\bin\Debug\netcoreapp3.1\tl1z3.exe
+D:\c#\tl1z3\tl1z3\bin\Debug\netcoreapp3.1\tl1z3.deps.json
+D:\c#\tl1z3\tl1z3\bin\Debug\netcoreapp3.1\tl1z3.runtimeconfig.json
+D:\c#\tl1z3\tl1z3\bin\Debug\netcoreapp3.1\tl1z3.runtimeconfig.dev.json
+D:\c#\tl1z3\tl1z3\bin\Debug\netcoreapp3.1\tl1z3.dll
+D:\c#\tl1z3\tl1z3\bin\Debug\netcoreapp3.1\tl1z3.pdb
+D:\c#\tl1z3\tl1z3\obj\Debug\netcoreapp3.1\tl1z3.csproj.AssemblyReference.cache
+D:\c#\tl1z3\tl1z3\obj\Debug\netcoreapp3.1\tl1z3.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\tl1z3\tl1z3\obj\Debug\netcoreapp3.1\tl1z3.AssemblyInfoInputs.cache
+D:\c#\tl1z3\tl1z3\obj\Debug\netcoreapp3.1\tl1z3.AssemblyInfo.cs
+D:\c#\tl1z3\tl1z3\obj\Debug\netcoreapp3.1\tl1z3.csproj.CoreCompileInputs.cache
+D:\c#\tl1z3\tl1z3\obj\Debug\netcoreapp3.1\tl1z3.dll
+D:\c#\tl1z3\tl1z3\obj\Debug\netcoreapp3.1\tl1z3.pdb
+D:\c#\tl1z3\tl1z3\obj\Debug\netcoreapp3.1\tl1z3.genruntimeconfig.cache
